@@ -58,4 +58,3 @@ Ingeniería en Tecnologías Computacionales — Universidad CNCI, 2026.
 
 - Correo: <colmenaresa753@gmail.com>
 - LinkedIn: [andres-gabriel-colmenares-zavarce](https://www.linkedin.com/in/andres-gabriel-colmenares-zavarce-15b70217b/)
-- CV: [CV_Andres_Colmenares.pdf](assets/CV_Andres_Colmenares.pdf)
