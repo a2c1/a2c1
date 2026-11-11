@@ -34,12 +34,12 @@ Monterrey, México.
 
 ## Portafolio
 
-Todo el trabajo está en un solo repositorio: [qa-portfolio](https://github.com/andres-colmenares/qa-portfolio).
+Todo el trabajo está en un solo repositorio: [qa-portfolio](https://github.com/a2c1/qa-portfolio).
 Cada carpeta es un proyecto con su README y su comando de ejecución.
 
 | Proyecto | Qué contiene | Stack |
 | --- | --- | --- |
-| [manual-testing](https://github.com/andres-colmenares/qa-portfolio/tree/main/manual-testing) | Ciclo de pruebas manuales de un formulario web: requisitos, plan, 40 casos, trazabilidad, bugs y cierre | ISTQB, Markdown, CSV |
+| [manual-testing](https://github.com/a2c1/qa-portfolio/tree/main/manual-testing) | Ciclo de pruebas manuales de un formulario web: requisitos, plan, 40 casos, trazabilidad, bugs y cierre | ISTQB, Markdown, CSV |
 
 En preparación: pruebas de API con Postman y Newman, validación de datos con SQL y
 automatización de UI con Selenium y Playwright.
@@ -57,4 +57,5 @@ Ingeniería en Tecnologías Computacionales — Universidad CNCI, 2026.
 ## Contacto
 
 - Correo: <colmenaresa753@gmail.com>
+- LinkedIn: [andres-gabriel-colmenares-zavarce](https://www.linkedin.com/in/andres-gabriel-colmenares-zavarce-15b70217b/)
 - CV: [CV_Andres_Colmenares.pdf](assets/CV_Andres_Colmenares.pdf)
